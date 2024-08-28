@@ -3,7 +3,7 @@
         "key": "003123EB4E325C82B8C7E192D319CF55",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Creepy",
-        "str": "Knochen"
+        "str": "Der Gruselige"
     },
     {
         "key": "0078964D495E90CB9C263D86C289F115",
@@ -15,19 +15,19 @@
         "key": "008C17DA426E713F7F3A418B4FDE1BE4",
         "location": "/Game/data-tables/itemList.itemList.NewRow_18.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Leather",
-        "str": "Læder"
+        "str": "Leder"
     },
     {
         "key": "00BD15F04FF6DC2CA86C84A59FC088F8",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Darkling",
-        "str": "Unheimlich"
+        "str": "Der Dunkle"
     },
     {
         "key": "0177D62B4B9CBCAFEE5A968A55483181",
         "location": "/Game/enums/actions.actions.DisplayNameMap(54 - Value).DisplayNameMap",
         "id": "Blackboard",
-        "str": "Tavle"
+        "str": "Tafel"
     },
     {
         "key": "01A2125C4F867B60C4E289ACD43FEBF9",
@@ -39,7 +39,7 @@
         "key": "01C8EACC48F42AB3BC9A26B9A45C3E10",
         "location": "/Game/data-tables/itemList.itemList.NewRow_27.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Cinnamon",
-        "str": "Kanel"
+        "str": "Zimt"
     },
     {
         "key": "02384976426960372C5EAE9FE9459154",
@@ -57,7 +57,7 @@
         "key": "02866DAB46A2CC7C42F7DBB8F29C8616",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Echo",
-        "str": "Dämmerung"
+        "str": "Das Echo"
     },
     {
         "key": "02D9E8BE4D8D66E9AA05AEBCFF6F5CFD",
@@ -81,7 +81,7 @@
         "key": "042571704BB706480B0FDD806AE57897",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Morbid",
-        "str": "Grimasse"
+        "str": "Das Morbide"
     },
     {
         "key": "056842694B3EB37BD05F159542C5CE41",
@@ -99,19 +99,19 @@
         "key": "05AD525F49BFE5E3D0E076B33A48FCF0",
         "location": "/Game/UI/confirm.Default__confirm_C.DismissButton",
         "id": "Deny",
-        "str": "Afslå"
+        "str": "Leugnen"
     },
     {
         "key": "0600D2134F5944FF6E3102866C348F23",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Enigma",
-        "str": "Geheimnisvoll"
+        "str": "Die Enigma"
     },
     {
         "key": "0654BE994FA7D802E7973F901694CDD2",
         "location": "/Game/functions/dollFunctions.dollFunctions_C:getDynamicAlias [Script Bytecode]",
         "id": "The Gasp",
-        "str": "Geist 28"
+        "str": "Das Keuchen"
     },
     {
         "key": "06E2AE2A4553C0E1B8BD4FAEBFD8FA1E",
@@ -147,7 +147,7 @@
         "key": "091617E74F451B4492E4B78A534E9BF3",
         "location": "/Game/data-tables/itemList.itemList.NewRow_28.name_12_D217604B46FF9197C7004FBE2050F6FD",
         "id": "Berries",
-        "str": "Bær"
+        "str": "Bären"
     },
     {
         "key": "09526FC54AA5D1983C1048ACADED01C4",
