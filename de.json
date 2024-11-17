@@ -75,13 +75,13 @@
         "key": "FB77087A4862A67B758D529F87748C2F",
         "location": "/Game/Blueprints/dynamicActions/daycare/blackboard.Default__blackboard_C.texts(9).texts",
         "id": "Chaos consumes us",
-        "str": "Chaos verzehrt uns"
+        "str": "Das Chaos verzehrt uns"
     },
     {
         "key": "1C4A0DD846CCF542A5D75C843FB42C43",
         "location": "/Game/Blueprints/dynamicDoll.dynamicDoll_C:ExecuteUbergraph_dynamicDoll [Script Bytecode]",
         "id": "This doll is under effects, wait for the effect to finish to apply another one",
-        "str": "Diese Puppe ist unter Effekten. Warten Sie, bis der Effekt beendet ist, um einen weiteren Effekt anzuwenden"
+        "str": "Diese Puppe ist von Effekten beeinflusst. Warten Sie, bis der Effekt beendet ist, um einen weiteren Effekt anzuwenden"
     },
     {
         "key": "5DAA61584F29C51BE364D59FAF17F7CB",
